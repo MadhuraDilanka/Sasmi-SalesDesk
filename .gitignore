@@ -1,0 +1,12 @@
+# Build folders
+bin/
+obj/
+.vs/
+
+# User files
+*.user
+*.suo
+
+# System files
+Thumbs.db
+*.DS_Store
